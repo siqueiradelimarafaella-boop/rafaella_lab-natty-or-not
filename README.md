@@ -1,51 +1,43 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# 📘 IA Regenerativa: A Revolução da Inteligência Artificial no Mundo Moderno  
+### ✍️ Autora: **Rafaella Siqueira**
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este repositório apresenta o e-book **"IA Regenerativa: A Revolução da Inteligência Artificial no Mundo Moderno"**, desenvolvido como parte do **fork do desafio "Natural ou Fake Natty?" da Digital Innovation One (DIO)**.  
+O projeto integra também as atividades práticas do **Bootcamp Nexa – Fundamentos de IA Generativa com Bedrock**, aplicando conceitos reais de criação assistida por Inteligência Artificial.
+
+O e-book explora de forma clara e acessível o impacto da IA regenerativa, trazendo reflexões sobre seu avanço, aplicações e futuro no cenário tecnológico global.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- **ChatGPT (IA Generativa)** – Criação do conteúdo textual, roteirização e revisão do material.  
+- **Leonardo AI** – Geração das artes, capa e elementos visuais estéticos utilizados no e-book.  
+- **Genspark AI** – Diagramação, design e refinamento visual final do e-book.  
+- **GitHub + Fork do Lab DIO** – Estrutura base do projeto, seguindo as diretrizes do desafio Natty/IA.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+1. **Concepção e Estruturação:**  
+   A partir do fork do projeto da DIO, desenvolvi a proposta central do e-book, definindo capítulos, abordagem e estética geral.
+
+2. **Roteirização com IA:**  
+   Com o apoio do ChatGPT, construí a narrativa, organizei tópicos e refinei o conteúdo para torná-lo educativo e fluido.
+
+3. **Criação Visual:**  
+   Utilizando o Leonardo AI, produzi toda a composição estética — incluindo capa, ilustrações e elementos complementares.
+
+4. **Design e Edição:**  
+   No Genspark, finalizei a diagramação, tipografia e layout do e-book, garantindo uma experiência visual agradável e profissional.
+
+5. **Publicação:**  
+   O e-book foi incorporado ao repositório como parte do desafio da DIO e atividade do bootcamp da Nexa.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+- E-book completo explorando o conceito de IA regenerativa.  
+- Conteúdo claro, moderno e alinhado ao tema do bootcamp.  
+- Materiais visuais originais gerados por IA.  
+- Um projeto robusto para compor portfólio profissional em tecnologia e IA.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+## 💭 Reflexão
+Criar um e-book inteiro com apoio de múltiplas IAs reforçou a ideia de que a criatividade humana e as ferramentas generativas se complementam de forma poderosa.  
+O maior desafio foi equilibrar naturalidade e tecnologia — exatamente a proposta do desafio **Natty/IA**.  
+O resultado mostra que, com curadoria cuidadosa, a IA pode potencializar a produção de conteúdo sem perder autenticidade.
 
-### Exemplos e Insigths
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
